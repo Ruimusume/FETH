@@ -8,10 +8,10 @@ by 露易娘 Ruimusume</br>
 TID：010055D009F78000</br>
 BID：47ca26d2aa77d0ba
 
-<img  class="pict" hspace="5" alt="5398C9CA-D405-4BAC-8D43-F5E53D7B53A4" border="0" height="720" width="1280" src="https://livedoor.blogimg.jp/q5563961/imgs/7/6/768c70cb.jpg"><br />
+<img src="https://livedoor.blogimg.jp/q5563961/imgs/7/6/768c70cb.jpg">
 
-<span  style="color: rgb(255, 0, 0);"><b> *说明：为了保证游戏可玩性，其实只需要用命中、行动力、素材不减、干劲MAX、经验x2、能力值x2这几项即可。</b></span><br />
-<br />
+<b> *说明：为了保证游戏可玩性，其实只需要用命中、行动力、素材不减、干劲MAX、经验x2、能力值x2这几项即可。</b>
+
 [Switch ファイアーエムブレム 風花雪月 Ver.1.0.1 Cheats 金手指 by露易娘]<br />
 [无限移动]<br />
 [命中率最大]<br />

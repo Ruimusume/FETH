@@ -8,6 +8,8 @@ by 露易娘 Ruimusume</br>
 TID：010055D009F78000</br>
 BID：47ca26d2aa77d0ba
 
+<img  class="pict" hspace="5" alt="5398C9CA-D405-4BAC-8D43-F5E53D7B53A4" border="0" height="720" width="1280" src="https://livedoor.blogimg.jp/q5563961/imgs/7/6/768c70cb.jpg"><br />
+
 <span  style="color: rgb(255, 0, 0);"><b> *说明：为了保证游戏可玩性，其实只需要用命中、行动力、素材不减、干劲MAX、经验x2、能力值x2这几项即可。</b></span><br />
 <br />
 [Switch ファイアーエムブレム 風花雪月 Ver.1.0.1 Cheats 金手指 by露易娘]<br />
@@ -21,11 +23,11 @@ BID：47ca26d2aa77d0ba
 [游戏时间归零]<br />
 [金钱MAX]<br />
 [声望MAX]<br />
-[行动力锁定10不减 (散步/教育/出击)]——可卡BUG周末行动先去出击后可回到修道院，传送下恢复NPC不见的情况<br />
+[行动力锁定10不减 (散步/教育/出击)] —— 可卡BUG周末行动先去出击后可回到修道院，传送下恢复NPC不见的情况<br />
 [商店存库不减]<br />
 [指导等级A+]<br />
 [全员干劲锁定100不减]<br />
-[现有材料仓库物品不减]——通过这个可刷好感提交失误或礼物，<a  target="_blank" href="https://gouhuo.qq.com/guide/detail/2678420785348672">失误对照表</a><br />
+[现有材料仓库物品不减] —— 通过这个可刷好感提交失误或礼物，<a  target="_blank" href="https://gouhuo.qq.com/guide/detail/2678420785348672">失误对照表</a>，部分任务送礼物不减无法完成请重开游戏不开金手指完成<br />
 [全员装备技能道具耐久度不减]<br />
 [解锁圣人像]<br />
 [全人物第一格持有道具&amp;耐久度99不减]<br />
@@ -34,7 +36,7 @@ BID：47ca26d2aa77d0ba
 [骑士团攻击MAX(敌我有效)]<br />
 [全角色兵种一战满级]<br />
 [性别切换男]<br />
-[性别切换女]<br />
+[性别切换女]<br />[解锁全鉴赏内容] 批量代码会修改语音为英文请自行修改回日文<br />
 [获得经验x1]<br />
 [获得经验x2]<br />
 [获得经验x4]<br />

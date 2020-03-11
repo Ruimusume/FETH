@@ -8,8 +8,6 @@ by 露易娘 Ruimusume</br>
 TID：010055D009F78000</br>
 BID：47ca26d2aa77d0ba
 
-<img src="https://livedoor.blogimg.jp/q5563961/imgs/7/6/768c70cb.jpg">
-
 <b> *说明：为了保证游戏可玩性，其实只需要用命中、行动力、素材不减、干劲MAX、经验x2、能力值x2这几项即可。</b>
 
 [Switch ファイアーエムブレム 風花雪月 Ver.1.0.1 Cheats 金手指 by露易娘]<br />
